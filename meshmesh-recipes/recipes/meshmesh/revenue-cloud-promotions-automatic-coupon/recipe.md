@@ -70,7 +70,7 @@ Create **all 10 mappings before activating**. A version referenced by an active 
 | Mapping Name | Context Tag |
 |---|---|
 | productSellingModel | `ProductSellingModel` |
-| accountId | `QuoteAccount` |
+| accountId | `Account` |
 | cartLineItemId | `LineItem` |
 | cartLineProductId | `Product` |
 | currencyISOCode | `CurrencyIsoCode` |
